@@ -1,5 +1,5 @@
 module.exports = {
   rules: {
-    snapshots: require("./lib/rules/first-rule")
+    snapshots: require("./lib/rules/snapshots")
   }
 };
