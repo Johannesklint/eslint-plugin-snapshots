@@ -10,6 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/Johannesklint/eslint-plugin-snapshots.git"
   },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "snapshots",
+    "snapshot",
+    "jest"
+  ],
   "engines": {
     "node": ">=0.10.0"
   },
